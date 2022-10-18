@@ -2,7 +2,7 @@
 
 ## 2022
 
-[test_button.py] works again "flickering" (unstable) buttons with https://gpiozero.readthedocs.io, as used via https://aiyprojects.readthedocs.io.
+[test_button.py](test_button.py) works again "flickering" (unstable) buttons with https://gpiozero.readthedocs.io, as used via https://aiyprojects.readthedocs.io.
 
 
 ## 2016
